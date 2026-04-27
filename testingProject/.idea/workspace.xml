@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ec5f71c-f958-4226-a167-3f14d5e981f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CvjbzotluXQIGXBUrElLGp3kBy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Coverage",
+    "Application.org.example.claude.prompt32.Main.executor": "Coverage",
+    "Application.org.example.gemini.prompt1.Main.executor": "Coverage",
+    "JUnit.org.example in hopefullyHw.executor": "Coverage",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sezgoku/IdeaProjects/hopefullyHw",
+    "onboarding.tips.debug.path": "/home/sezgoku/IdeaProjects/hopefullyHw/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.org.example.gemini.prompt1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.claude.prompt1.Main" />
+      <module name="hopefullyHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.claude.prompt1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.claude.prompt32.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.claude.prompt32.Main" />
+      <module name="hopefullyHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.claude.prompt32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.gemini.prompt1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.gemini.prompt1.Main" />
+      <module name="hopefullyHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.gemini.prompt1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example in hopefullyHw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hopefullyHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.gemini in hopefullyHw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hopefullyHw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.gemini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.gemini" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.gemini.prompt1.Main" />
+        <item itemvalue="JUnit.org.example.gemini in hopefullyHw" />
+        <item itemvalue="JUnit.org.example in hopefullyHw" />
+        <item itemvalue="Application.org.example.claude.prompt32.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec5f71c-f958-4226-a167-3f14d5e981f3" name="Changes" comment="" />
+      <created>1777273013850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777273013850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hopefullyHw$Main.ic" NAME="Main Coverage Results" MODIFIED="1777295091446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hopefullyHw$org_example_claude_prompt32_Main.ic" NAME="org.example.claude.prompt32.Main Coverage Results" MODIFIED="1777308979293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.claude.prompt32.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hopefullyHw$org_example_gemini_prompt1_Main.ic" NAME="org.example.gemini.prompt1.Main Coverage Results" MODIFIED="1777309238680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.gemini.prompt1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
